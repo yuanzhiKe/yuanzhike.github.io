@@ -22,9 +22,9 @@ repository               : "yuanzhiKe/yuanzhike.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuanzhi Ke"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A lecturer of Hubei University of Technology. Received Ph.D. in Engineering from Keio University. My research interests includes text mining, medical named entity normalization, language model compression."
   location         : "Earth"
   employer         : "HBUT"
   uri              : # URL
