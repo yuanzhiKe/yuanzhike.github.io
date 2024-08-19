@@ -1,11 +1,11 @@
 ---
-title: "Algorithms Analysis and Design"
+title: "System Analysis and Design"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-teaching-1.md
+permalink: /teaching/2023-fall-teaching-2
 venue: "Department of Computer Science, Hubei University of Technology"
-date: 2022-09-01 - now
-location: "Wuhan, China"
+date: 2023-09-01 - now
+location: "City, Country"
 ---
 
 <!-- This is a description of a teaching experience. You can use markdown like any other post.
