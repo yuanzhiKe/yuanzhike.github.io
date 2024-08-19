@@ -21,7 +21,7 @@ repository               : "yuanzhiKe/yuanzhike.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.png"
   name             : "Yuanzhi Ke"
   pronouns         : # example: "she/her"  
   bio              : "A lecturer of Hubei University of Technology. Received Ph.D. in Engineering from Keio University. My research interests includes text mining, medical named entity normalization, language model compression."
