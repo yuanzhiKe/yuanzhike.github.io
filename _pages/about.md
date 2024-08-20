@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Yuanzhi Ke"
 author_profile: true
 redirect_from:
 - /about/
@@ -8,3 +8,7 @@ redirect_from:
 ---
 
 # WIP
+
+- [ ] short comments here
+- [ ] publications list here
+- [ ] teaching list here
