@@ -17,10 +17,10 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ## Teaching
 
-### Algorithm Analysis and Design**
+### Algorithm Analysis and Design
 
 2022 ~ now, Undergraduate Course, School of Computer Science, Hubei University of Technology
 
-### System Analysis and Design**
+### System Analysis and Design
 
 2023 ~ now, Undergraduate Course, School of Computer Science, Hubei University of Technology
