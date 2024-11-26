@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Yuanzhi Ke
 
-I am now working as a lecturer at Hubei University of Technology, China. I received Ph.D. degree from Keio University, Japan in 2020. I am a former ML engineer of Gunosy Inc., Japan. My research interests includes text mining, medical named entity normalization.
+I am now working as a faculty lecturer at Hubei University of Technology, China, teaching algorithms, system design and database basics. I am also a graduate advisor. My research interests are text mining and natural language processing. I received Ph.D. degree from Keio University, Japan in 2020 and a former ML engineer. I am a Chinese native speaker and can also speak Japanese and English fluently. 
 
 ## Publications
 
