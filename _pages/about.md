@@ -19,8 +19,16 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ### Algorithm Analysis and Design
 
-2022 ~ now, Undergraduate Course, School of Computer Science, Hubei University of Technology
+2022.9 ~ now, Undergraduate Course, School of Computer Science, Hubei University of Technology
 
 ### System Analysis and Design
 
-2023 ~ now, Undergraduate Course, School of Computer Science, Hubei University of Technology
+2023.3 ~ now, Undergraduate Course, School of Computer Science, Hubei University of Technology
+
+### Advanced Algorithm Analysis and Design (Machine Learning Part)
+
+2024.9 ~ now, Graduate Course, School of Computer Science, Hubei University of Technology
+
+### Principles and Application of Database
+
+2025.9 ~ , Undergraduate Course, School of Computer Science, Hubei University of Technology
